@@ -1,0 +1,8 @@
+venv
+static
+media
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.pyc
